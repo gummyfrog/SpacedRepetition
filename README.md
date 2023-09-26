@@ -40,4 +40,4 @@ Prerequisites:
 
 
 #### Development
-For development, simply open the included xCode project and run build.
+For development, simply create an xCode project with the included Swift code. Sign your project, and build.
