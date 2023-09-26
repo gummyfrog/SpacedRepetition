@@ -1,0 +1,10 @@
+services:
+ 
+  tempel:
+    image: tempel:latest
+
+    restart: on-failure
+
+    ports:
+      - '3000:3000'
+

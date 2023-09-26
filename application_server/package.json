@@ -1,0 +1,25 @@
+{
+  "name": "director",
+  "version": "1.0.0",
+  "description": "",
+  "main": "director.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jest": "^29.7.0",
+    "jsonfile": "^6.1.0",
+    "sipjs-udp": "^0.0.17",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "jest-environment-jsdom": "^29.7.0",
+    "jssip": "^3.10.0",
+    "jssip-node-websocket": "^3.0.0",
+    "sip.js": "^0.21.2",
+    "ws": "^8.14.1"
+  }
+}
