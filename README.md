@@ -10,7 +10,7 @@ The Application server is contained in `/application_server`. It is a barebones 
 
 ### B. The Mobile Application
 
-The iOS application is contained in `/ios_application`. It is a barebones SwiftUI app which currently has the Push Notifications privilege enabled. 
+The Swift codebase for the iOS application is contained in `/swift_code`. It is a barebones SwiftUI app.
 
 
 ## Installation
